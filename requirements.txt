@@ -1,0 +1,9 @@
+openai
+lxml
+beautifulsoup4
+requests
+numpy
+sentence_transformers
+pyperclip
+aiohttp
+pandas
